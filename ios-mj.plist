@@ -1,0 +1,99 @@
+<!--<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            --><!-- 需要安装的ipa包在服务器的路径 --><!--
+            <string>https://qtojes.cn/mytest/ios-mj.ipa</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>needs-shine</key>
+            <true/>
+            <key>url</key>
+            --><!-- 安装时需要显示的小图标在服务器的路径 --><!--
+            <string>https://qtojes.cn/img/game/icon.png</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>needs-shine</key>
+            <true/>
+            <key>url</key>
+            --><!-- 安装时需要显示的大图标在服务器的路径 --><!--
+            <string>https://qtojes.cn/img/game/icon.png</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>com.mcrazy.Mytest</string>
+          <key>bundle-version</key>
+          <string>1.1.4</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>title</key>
+          <string>客户端</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>-->
+
+<plist version="1.0">
+  <script/>
+  <dict>
+    <key>items</key>
+    <array>
+      <dict>
+        <key>assets</key>
+        <array>
+          <dict>
+            <key>kind</key>
+            <string>software-package</string>
+            <key>url</key>
+            <string>https://qtojes.cn/ios-mj.ipa</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>display-image</string>
+            <key>needs-shine</key>
+            <true/>
+            <key>url</key>
+            <string>https://qtojes.cn/img/game/icon.png</string>
+          </dict>
+          <dict>
+            <key>kind</key>
+            <string>full-size-image</string>
+            <key>needs-shine</key>
+            <true/>
+            <key>url</key>
+            <string>https://qtojes.cn/img/game/icon.png</string>
+          </dict>
+        </array>
+        <key>metadata</key>
+        <dict>
+          <key>bundle-identifier</key>
+          <string>com.aldb.ios.magic.19922</string>
+          <key>bundle-version</key>
+          <string>1</string>
+          <key>kind</key>
+          <string>software</string>
+          <key>subtitle</key>
+          <string>App Subtitle</string>
+          <key>title</key>
+          <string>o_1g8kceaqpe3d17de1g9enc5r79</string>
+        </dict>
+      </dict>
+    </array>
+  </dict>
+</plist>
